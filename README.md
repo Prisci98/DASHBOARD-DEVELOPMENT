@@ -101,3 +101,4 @@ Power Query Editor – Data cleaning, formatting, and calculated column creation
 
 *Output*
 
+![Image](https://github.com/user-attachments/assets/4195ee8c-a5ee-4659-be4d-0462ac98861f)
